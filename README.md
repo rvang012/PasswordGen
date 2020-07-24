@@ -1,1 +1,3 @@
 # PasswordGen
+This homework was a challenge for me. So, I did google multiple tutorials and using them, tried to figure out how to code it for the homework criteria. I used the onclick function and learned that I do not need to declare varibles multiple times if I already declared it. At first, my prompts didn't work and had to tried coding it in different ways before it started working again and to make sure I wasn't missing anything in the code. 
+After that, I used if statements to generate the password and generating the password was the most challenging thing for me, but I'm glad I was able to figure it out with the help of my instructor. 
